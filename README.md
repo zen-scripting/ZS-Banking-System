@@ -6,7 +6,7 @@
 
 💬 Discord Community/Support: https://discord.gg/RNzyXTuepc
 🛒 Tebex Shop: https://zen-scripts-webstore.tebex.io/
-📼 YouTube Preview: Coming Soon
+📼 YouTube Preview: https://youtu.be/yqnj0DdC8CM?si=UnPA4Nv-tTWMcPjb
 
 ---
 
