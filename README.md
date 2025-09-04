@@ -132,16 +132,6 @@ Updates - Regular feature updates
 
 ---
 
-⭐ Reviews
-
-"Das beste Banking-System, das ich je gesehen habe!" - Server-Admin
-
-"Perfekte Integration mit unserem ESX-Server!" - Community-Manager
-
-"Unser Server läuft jetzt viel professioneller!" - Server-Betreiber
-
----
-
 🚀 Get Started
 
 Start today with the best banking system for FiveM!
